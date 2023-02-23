@@ -169,5 +169,9 @@
             android:name="com.google.android.gms.car.application"
             android:resource="@xml/automotive_app_desc" />
     </application>
+            <meta-data 
+                 android:name="flutterEmbedding" 
+     android:value="2"/> 
+      </application>
 
 </manifest>
