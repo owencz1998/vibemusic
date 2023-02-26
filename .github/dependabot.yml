@@ -5,7 +5,6 @@
 
 version: 2
 
-enable-beta-ecosystems: true
 
 updates:
   - package-ecosystem: "pub" # See documentation for possible values
