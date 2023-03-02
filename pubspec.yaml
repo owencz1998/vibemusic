@@ -24,7 +24,7 @@ dependencies:
   cached_network_image: ^3.2.3
   dynamic_color: ^1.6.2
   font_awesome_flutter: ^10.4.0
-  url_launcher: ^6.1.9
+  url_launcher: ^6.1.10
   expandable_page_view: ^1.0.17
   country_picker: ^2.0.19
   hive: ^2.2.3
