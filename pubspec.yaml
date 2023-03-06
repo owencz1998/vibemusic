@@ -26,7 +26,7 @@ dependencies:
   font_awesome_flutter: ^10.4.0
   url_launcher: ^6.1.10
   expandable_page_view: ^1.0.17
-  country_picker: ^2.0.19
+  country_picker: ^2.0.20
   hive: ^2.2.3
   hive_flutter: ^1.1.0
   share_plus: ^6.3.1
