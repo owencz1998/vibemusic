@@ -30,7 +30,7 @@ dependencies:
   hive: ^2.2.3
   hive_flutter: ^1.1.0
   share_plus: ^6.3.1
-  file_support: ^1.0.6
+  file_support: ^1.0.7
   permission_handler: ^10.2.0
   external_path: ^1.0.3
   package_info_plus: ^3.0.3
