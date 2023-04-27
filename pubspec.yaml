@@ -29,7 +29,7 @@ dependencies:
   country_picker: ^2.0.20
   hive: ^2.2.3
   hive_flutter: ^1.1.0
-  share_plus: ^6.3.1
+  share_plus: ^6.3.4
   file_support: ^1.0.7
   permission_handler: ^10.2.0
   external_path: ^1.0.3
