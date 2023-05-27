@@ -197,10 +197,10 @@ packages:
     dependency: "direct main"
     description:
       name: dynamic_color
-      sha256: c4a508284b14ec4dda5adba2c28b2cdd34fbae1afead7e8c52cad87d51c5405b
+      sha256: "74dff1435a695887ca64899b8990004f8d1232b0e84bfc4faa1fdda7c6f57cc1"
       url: "https://pub.dev"
     source: hosted
-    version: "1.6.2"
+    version: "1.6.5"
   expandable_page_view:
     dependency: "direct main"
     description:
