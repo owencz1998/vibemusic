@@ -22,7 +22,7 @@ dependencies:
   miniplayer: ^1.0.1
   carousel_slider: ^4.2.1
   cached_network_image: ^3.2.3
-  dynamic_color: ^1.6.2
+  dynamic_color: ^1.6.5
   font_awesome_flutter: ^10.4.0
   url_launcher: ^6.1.10
   expandable_page_view: ^1.0.17
