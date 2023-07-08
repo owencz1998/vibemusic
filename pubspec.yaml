@@ -34,7 +34,7 @@ dependencies:
   permission_handler: ^10.2.0
   external_path: ^1.0.3
   package_info_plus: ^3.1.2
-  flutter_swipe_action_cell: ^3.1.0
+  flutter_swipe_action_cell: ^3.1.2
   connectivity_plus: ^3.0.3
 
 
