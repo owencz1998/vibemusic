@@ -15,7 +15,7 @@ dependencies:
   youtube_explode_dart: ^1.12.4
   provider: ^6.0.5
   just_audio: ^0.9.32
-  just_audio_background: ^0.0.1-beta.9
+  just_audio_background: ^0.0.1-beta.10
   google_fonts: ^4.0.4
   palette_generator: ^0.3.3+2
   intl: ^0.17.0
