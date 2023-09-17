@@ -14,7 +14,7 @@ dependencies:
   cupertino_icons: ^1.0.6
   youtube_explode_dart: ^1.12.4
   provider: ^6.0.5
-  just_audio: ^0.9.34
+  just_audio: ^0.9.35
   just_audio_background: ^0.0.1-beta.10
   google_fonts: ^4.0.4
   palette_generator: ^0.3.3+2
